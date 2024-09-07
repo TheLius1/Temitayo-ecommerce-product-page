@@ -409,7 +409,7 @@ hr {
     width: 100%;
   }
 }
-@media (min-width: 500px) {
+@media (min-width: 501px) {
   body {
     margin: 0 auto;
     padding: 0 1.5rem;
