@@ -135,6 +135,9 @@ hr {
   border-radius: 10px;
   transition: all 0.2s ease-in-out;
 }
+.orderInfo-container {
+  gap: 1rem;
+}
 
 .order--btn:hover {
   background-color: var(--orange-hover);
