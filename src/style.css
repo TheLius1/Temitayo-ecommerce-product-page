@@ -112,6 +112,7 @@ hr {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 1.5rem;
+   gap: .5rem;
 }
 
 .orderImage img {
@@ -135,10 +136,6 @@ hr {
   border-radius: 10px;
   transition: all 0.2s ease-in-out;
 }
-.orderInfo-container {
-  gap: 1rem;
-}
-
 .order--btn:hover {
   background-color: var(--orange-hover);
 }
