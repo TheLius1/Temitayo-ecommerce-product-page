@@ -317,7 +317,7 @@ hr {
     display: none;
   }
 }
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   nav {
     margin: 1.5rem;
   }
@@ -409,7 +409,7 @@ hr {
     width: 100%;
   }
 }
-@media (min-width: 501px) {
+@media (min-width: 601px) {
   body {
     margin: 0 auto;
     padding: 0 1.5rem;
