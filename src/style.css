@@ -498,7 +498,7 @@ hr {
     cursor: pointer;
   }
 }
-@media (min-width: 500px) and (max-width: 1024px) {
+@media (min-width: 601px) and (max-width: 1024px) {
   #avatar {
     width: 40px;
   }
